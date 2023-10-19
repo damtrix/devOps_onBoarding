@@ -54,5 +54,3 @@ else
 # Do nothing and echo if user not admin
 echo "Only Admin can onBoard User"
 fi
-
-# Let me see
